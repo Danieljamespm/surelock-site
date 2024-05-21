@@ -31,5 +31,5 @@ $(".owl-carousel").owlCarousel({
     }
 });
 
-/** google_map js **/
+
 
