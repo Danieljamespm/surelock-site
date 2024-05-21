@@ -380,8 +380,11 @@ a:focus {
   width: 100%;
 }
 
+/* SERVICES SECTION */
+
 .professional_section {
-  background-color: #d1e3ff;
+  background-color: #000000;
+  color: #ffffff;
 }
 
 .professional_section .row {
@@ -397,11 +400,16 @@ a:focus {
 .professional_section .detail-box h2 {
   text-transform: uppercase;
   font-weight: bold;
-  color: #0355cc;
+  color: #ffffff;
 }
 
 .professional_section .detail-box p {
   margin-top: 20px;
+  font-size: 20px;
+}
+
+.professional_section span{
+  color: #c20909;
 }
 
 .professional_section .detail-box a {
@@ -410,15 +418,15 @@ a:focus {
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
-  background-color: #ff8a1d;
-  border: 1px solid #ff8a1d;
-  border-radius: 2px;
+  background-color: #c20909;
+  border: 1px solid #c20909;
+  border-radius: 5px;
   color: #ffffff;
 }
 
 .professional_section .detail-box a:hover {
   background-color: transparent;
-  color: #ff8a1d;
+  color: #c20909;
 }
 
 .service_section {
