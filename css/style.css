@@ -531,6 +531,8 @@ a:focus {
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
+  
+  
 }
 
 .client_section .box {
@@ -598,7 +600,7 @@ a:focus {
 .client_section .owl-carousel .owl-nav button {
   width: 50px;
   height: 50px;
-  background-color: #0355cc;
+  background-color: #000000;
   outline: none;
   margin: 0 20px;
   color: #ffffff;
@@ -614,9 +616,9 @@ a:focus {
   height: 50px;
   margin-bottom: 25px;
   padding-left: 25px;
-  background-color: #ffffff;
+  background-color: #000000;
   outline: none;
-  color: #ffffff;
+  color: #c20909;
   -webkit-box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.2);
 }
@@ -647,16 +649,16 @@ a:focus {
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 55px;
-  background-color: #0355cc;
-  border: 1px solid #0355cc;
+  background-color: #ffffff;
+  border: 1px solid #000000;
   border-radius: 0;
-  color: #ffffff;
+  color: #000000;
   margin-top: 15px;
 }
 
 .contact_section button:hover {
-  background-color: transparent;
-  color: #0355cc;
+  background-color: #000000;
+  color: #c20909;
 }
 
 .contact_section .map_container {
@@ -669,7 +671,7 @@ a:focus {
 
 .info_section {
   padding: 75px 0;
-  background-color: #0a0f43;
+  background-color: #000000;
   text-align: center;
   color: #fff;
 }
@@ -701,7 +703,7 @@ a:focus {
 
 .info_section a {
   margin: 0 5px;
-  color: #0355cc;
+  color: #c20909;
 }
 
 .info_section a i {
@@ -709,7 +711,7 @@ a:focus {
 }
 
 .info_section a:hover {
-  color: #ff8a1d;
+  color: #000000;
 }
 
 .info_items a {
@@ -739,8 +741,8 @@ a:focus {
   background-position: center;
   text-align: center;
   line-height: 80px;
-  background-color: #0355cc;
-  color: #ffffff;
+  background-color: #c20909;
+  color: #000000;
 }
 
 .info_items .item .img-box i {
@@ -751,11 +753,11 @@ a:focus {
   margin-top: 25px;
   color: #fff;
   margin-bottom: 0;
-  background-color: #0a0f43;
+  background-color: #000000;
 }
 
 .info_items .item:hover .img-box {
-  background-color: #ff8a1d;
+  background-color: #ffffff;
 }
 
 .info_items {
@@ -776,15 +778,15 @@ a:focus {
 
 /* footer section*/
 .footer_section {
-  background-color: #0a0f43;
+  background-color: #000000;
 }
 
 .footer_section p {
   margin: 0;
   padding: 25px 0;
-  color: #ffffff;
+  color: #c20909;
   text-align: center;
-  border-top: 0.8px solid #ffffff;
+  
 }
 
 .footer_section a {
