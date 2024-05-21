@@ -429,6 +429,8 @@ a:focus {
   color: #c20909;
 }
 
+/* SERVICE BOXES */
+
 .service_section {
   position: relative;
 }
@@ -487,7 +489,7 @@ a:focus {
 }
 
 .service_section .box:hover {
-  background-color: #ff8a1d;
+  background-color: #000000;
   color: #ffffff;
 }
 
@@ -511,16 +513,18 @@ a:focus {
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
-  background-color: #0355cc;
-  border: 1px solid #0355cc;
-  border-radius: 0;
+  background-color: #000000;
+  border: 1px solid #000000;
+  border-radius: 5px;
   color: #ffffff;
 }
 
 .service_section .btn-box a:hover {
   background-color: transparent;
-  color: #0355cc;
+  color: #000000;
 }
+
+/* CLIENT REVIEW SECTION */
 
 .client_section .heading_container {
   -webkit-box-align: center;
