@@ -708,7 +708,35 @@ a:focus {
 
 .info_section a {
   margin: 0 5px;
-  color: #c20909;
+  color: #000000;
+}
+
+.calendly  {
+  border: 2px solid ;
+  border-radius: 5%;
+  padding: 20px;
+  color: #ffffff;
+  font-size: 20px;
+  background-color: #c20909;
+  font-weight: bold;
+  
+  
+}
+
+#homepage-bttn {
+  padding: 10px 25px;
+  text-align: center;
+  
+}
+
+.calendly a{
+  font-color: #000000;
+}
+
+.calendly:hover{
+  background-color: #ffffff;
+  font-weight: bolder;
+  border: #ffffff;
 }
 
 .info_section a i {
