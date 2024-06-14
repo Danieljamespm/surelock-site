@@ -828,3 +828,14 @@ a:focus {
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
+
+/* Services Page */
+
+#autoservice span{
+color: #c20909;
+font-weight: bolder;
+}
+.autoservicelist span {
+  color: #c20909;
+  font-weight: bold;
+}
