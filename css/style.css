@@ -830,7 +830,9 @@ a:focus {
 /*# sourceMappingURL=style.css.map */
 
 /* Services Page */
-
+#autoservice{
+  text-align: center;
+}
 #autoservice span{
 color: #c20909;
 font-weight: bolder;
@@ -838,4 +840,7 @@ font-weight: bolder;
 .autoservicelist span {
   color: #c20909;
   font-weight: bold;
+}
+.autoservicelist{
+  text-align: center;
 }
