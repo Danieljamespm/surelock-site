@@ -617,6 +617,16 @@ pre code {
   padding-left: 15px;
 }
 
+
+
+
+@media only screen and (min-width:300px) and (max-width: 1000px){
+.locksmith-images{
+  width: 100%;
+  
+}
+}
+
 .col {
   -ms-flex-preferred-size: 0;
   flex-basis: 0;
