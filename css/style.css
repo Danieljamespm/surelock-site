@@ -837,10 +837,10 @@ a:focus {
 color: #c20909;
 font-weight: bolder;
 }
-.autoservicelist span {
+.servicelist span {
   color: #c20909;
   font-weight: bold;
 }
-.autoservicelist{
+.servicelist{
   text-align: center;
 }
